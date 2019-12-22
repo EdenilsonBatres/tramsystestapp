@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "931787588910",
+    "firebase_url": "https://tramsys-test.firebaseio.com",
+    "project_id": "tramsys-test",
+    "storage_bucket": "tramsys-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931787588910:android:244d63530d1082483da6bf",
+        "android_client_info": {
+          "package_name": "com.example.tramsys_test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931787588910-3q7jmrlvv6rlv2pgjp9qtl744frk288t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tramsys_test_app",
+            "certificate_hash": "fa1c3ddc60b0bfeab3dc7a2986d3662079424171"
+          }
+        },
+        {
+          "client_id": "931787588910-itjgmeuksgibgsj3g4ut8u1dp4pefpos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzB6MoD3NrOr2so0B0xdqifvi1LLQcE44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931787588910-itjgmeuksgibgsj3g4ut8u1dp4pefpos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

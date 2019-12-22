@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tramsys-test-app</string>
+    <string name="nombre_boton_inicio">Iniciar</string>
+    <string name="entidades">Entidades contadas</string>
+    <string name="llenado">xxx</string>
+    <string name="fecha">Fecha</string>
+    <string name="Hora">Hora</string>
+    <string name="cantidad_enviada">Identificador</string>
+
+    <string name="def_tiempo">Definir tiempo de funcion</string>
+    <string name="def_tiempo_box">Definir tiempo en segundos</string>
+    <string name="btn_iniciar">iniciar</string>
+</resources>
